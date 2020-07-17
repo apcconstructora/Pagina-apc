@@ -1,0 +1,202 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.apcconstructora.com" resolutions="1x" timestamp="1595003303782">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4011624025" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="89162509" ref="index"/>
+    <file name="contactos.css" crc="350396059" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="488993734" ref="contactos"/>
+    <file name="index.css" crc="188440325" ref="index"/>
+    <file name="nomq_index.css" crc="4033040000" ref="index"/>
+    <file name="nuestros-proyectos.css" crc="284291731" ref="nuestros-proyectos"/>
+    <file name="nomq_nuestros-proyectos.css" crc="4142550437" ref="nuestros-proyectos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contactos:nuestros-proyectos"/>
+    <file name="museutils.js" crc="340535759" ref="index:contactos:nuestros-proyectos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contactos:nuestros-proyectos"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contactos:nuestros-proyectos"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contactos:nuestros-proyectos"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contactos"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:contactos"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:contactos"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:contactos"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contactos:nuestros-proyectos"/>
+    <file name="require.js" crc="7928878" ref="index:contactos:nuestros-proyectos"/>
+  </folder>
+  <folder name="images">
+    <file name="f.png" crc="14513252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w2.png" crc="74688390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contactos:nuestros-proyectos"/>
+    <file name="w3.png" crc="4218161899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1.png" crc="6127046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:contactos"/>
+    <file name="g956.png" crc="3869069352" seo="true" ref="index:contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="image952.png" crc="88187559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181109_144133.jpg" crc="227430941" seo="true" ref="index:contactos:nuestros-proyectos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="u338.png" crc="138753170" ref="index"/>
+    <file name="u338-r.png" crc="161717291" ref="index"/>
+    <file name="w2571x201.png" crc="3805786471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w3569x200.png" crc="438049698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w1555x201.png" crc="3881342112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u329-4.png" crc="4037697174" ref="index"/>
+    <file name="u333-4.png" crc="140249608" ref="index"/>
+    <file name="u502_states.png" crc="188475851" ref="index"/>
+    <file name="u502_states-r.png" crc="4259021711" ref="index"/>
+    <file name="u2282.png" crc="54394106" ref="contactos"/>
+    <file name="u2282-r.png" crc="297340641" ref="contactos"/>
+    <file name="architecture-5339245_1920.jpg" crc="3785405758" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="u5385-4.png" crc="3882256394" ref="contactos"/>
+    <file name="u5388-4.png" crc="519508702" ref="contactos"/>
+    <file name="u2504.png" crc="138753170" ref="contactos"/>
+    <file name="u2504-r.png" crc="161717291" ref="contactos"/>
+    <file name="u22822.png" crc="54394106" ref="contactos"/>
+    <file name="u2282-r2.png" crc="297340641" ref="contactos"/>
+    <file name="u5385-42.png" crc="3772079689" ref="contactos"/>
+    <file name="u5388-42.png" crc="3767157593" ref="contactos"/>
+    <file name="u25042.png" crc="138753170" ref="contactos"/>
+    <file name="u2504-r2.png" crc="161717291" ref="contactos"/>
+    <file name="u22823.png" crc="54394106" ref="contactos"/>
+    <file name="u2282-r3.png" crc="297340641" ref="contactos"/>
+    <file name="u5385-43.png" crc="3934883104" ref="contactos"/>
+    <file name="u5388-43.png" crc="4232263764" ref="contactos"/>
+    <file name="u2509-4-a.png" crc="188475851" ref="contactos"/>
+    <file name="u2498-4.png" crc="4037697174" ref="contactos"/>
+    <file name="u2499-4.png" crc="140249608" ref="contactos"/>
+    <file name="u25043.png" crc="138753170" ref="contactos"/>
+    <file name="u2504-r3.png" crc="161717291" ref="contactos"/>
+    <file name="u3741.png" crc="54394106" ref="nuestros-proyectos"/>
+    <file name="u3741-r.png" crc="4140177689" ref="nuestros-proyectos"/>
+    <file name="image987.png" crc="205592386" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image976.png" crc="216044544" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1017.png" crc="16822584" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1006.png" crc="4175301543" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1067.png" crc="3899638005" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1056.png" crc="4000464235" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1028.png" crc="4080791094" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1045.png" crc="4084071392" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1101.png" crc="289361283" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1090.png" crc="4231828080" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="u3268.png" crc="138753170" ref="nuestros-proyectos"/>
+    <file name="u3268-r.png" crc="161717291" ref="nuestros-proyectos"/>
+    <file name="u37412.png" crc="54394106" ref="nuestros-proyectos"/>
+    <file name="u3741-r2.png" crc="4140177689" ref="nuestros-proyectos"/>
+    <file name="image1006365x247.png" crc="3825131521" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="u32682.png" crc="138753170" ref="nuestros-proyectos"/>
+    <file name="u3268-r2.png" crc="161717291" ref="nuestros-proyectos"/>
+    <file name="u37413.png" crc="54394106" ref="nuestros-proyectos"/>
+    <file name="u3741-r3.png" crc="4140177689" ref="nuestros-proyectos"/>
+    <file name="image987320x216.png" crc="4117458800" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image976321x211.png" crc="4028174394" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1006319x215.png" crc="438559550" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1017319x214.png" crc="389407986" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1067320x252.png" crc="194396217" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1056321x252.png" crc="350187388" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1028320x217.png" crc="3998497923" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1045321x219.png" crc="4145631283" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1101320x240.png" crc="220750503" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="image1090321x238.png" crc="423138491" seo="true" ref="nuestros-proyectos">
+      <caption webpage="nuestros-proyectos" alt=""/>
+    </file>
+    <file name="u32683.png" crc="138753170" ref="nuestros-proyectos"/>
+    <file name="u3268-r3.png" crc="161717291" ref="nuestros-proyectos"/>
+  </folder>
+  <file name="index.html" crc="15746107" seo="true" mt="1595003153653" redirect="true"/>
+  <file name="contactos.html" crc="483452586" seo="true" mt="1595003237035" redirect="true"/>
+  <file name="nuestros-proyectos.html" crc="3777773912" seo="true" mt="1595003258674" redirect="true"/>
+</manifest>
