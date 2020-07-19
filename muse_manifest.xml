@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.apcconstructora.com" resolutions="1x" timestamp="1595003303782">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.apcconstructora.com" resolutions="1x" timestamp="1595119524081">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4011624025" ref="index"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="89162509" ref="index"/>
-    <file name="contactos.css" crc="350396059" ref="contactos"/>
-    <file name="nomq_contactos.css" crc="488993734" ref="contactos"/>
-    <file name="index.css" crc="188440325" ref="index"/>
-    <file name="nomq_index.css" crc="4033040000" ref="index"/>
-    <file name="nuestros-proyectos.css" crc="284291731" ref="nuestros-proyectos"/>
-    <file name="nomq_nuestros-proyectos.css" crc="4142550437" ref="nuestros-proyectos"/>
+    <file name="master_a-p_g_-maestra.css" crc="4068754617" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="247518475" ref="index"/>
+    <file name="nuestros-proyectos.css" crc="148773156" ref="nuestros-proyectos"/>
+    <file name="nomq_nuestros-proyectos.css" crc="426766493" ref="nuestros-proyectos"/>
+    <file name="index.css" crc="378531154" ref="index"/>
+    <file name="nomq_index.css" crc="3849353766" ref="index"/>
+    <file name="contactos.css" crc="3793408207" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="409185723" ref="contactos"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contactos:nuestros-proyectos"/>
@@ -51,7 +51,7 @@
       <caption webpage="contactos" alt=""/>
       <caption webpage="contactos" alt=""/>
     </file>
-    <file name="image952.png" crc="88187559" seo="true" ref="index">
+    <file name="image952.png" crc="114575812" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -104,8 +104,6 @@
     <file name="u2504-r2.png" crc="161717291" ref="contactos"/>
     <file name="u22823.png" crc="54394106" ref="contactos"/>
     <file name="u2282-r3.png" crc="297340641" ref="contactos"/>
-    <file name="u5385-43.png" crc="3934883104" ref="contactos"/>
-    <file name="u5388-43.png" crc="4232263764" ref="contactos"/>
     <file name="u2509-4-a.png" crc="188475851" ref="contactos"/>
     <file name="u2498-4.png" crc="4037697174" ref="contactos"/>
     <file name="u2499-4.png" crc="140249608" ref="contactos"/>
@@ -196,7 +194,7 @@
     <file name="u32683.png" crc="138753170" ref="nuestros-proyectos"/>
     <file name="u3268-r3.png" crc="161717291" ref="nuestros-proyectos"/>
   </folder>
-  <file name="index.html" crc="15746107" seo="true" mt="1595003153653" redirect="true"/>
-  <file name="contactos.html" crc="483452586" seo="true" mt="1595003237035" redirect="true"/>
-  <file name="nuestros-proyectos.html" crc="3777773912" seo="true" mt="1595003258674" redirect="true"/>
+  <file name="index.html" crc="139848961" seo="true" mt="1595103392802" redirect="true"/>
+  <file name="contactos.html" crc="245738630" seo="true" mt="1595104672969" redirect="true"/>
+  <file name="nuestros-proyectos.html" crc="4093611878" seo="true" mt="1595119455922" redirect="true"/>
 </manifest>
